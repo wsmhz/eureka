@@ -50,7 +50,7 @@
 		</dependencies>
 	</dependencyManagement>
 
-	<repositories>
+<!-- 	<repositories>
     	<repository>
 	        <id>spring-milestones</id>
 	        <name>Spring Milestones</name>
@@ -78,7 +78,7 @@
             <name>Spring Maven RELEASE Repository</name>
             <url>http://repo.spring.io/libs-release</url>
         </repository>
-    </repositories>
+    </repositories> -->
 
 	<build>
 		<plugins>
