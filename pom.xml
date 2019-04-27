@@ -84,7 +84,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-        <finalName>wsmhz-eureka</finalName>
+        <finalName>eureka</finalName>
 	</build>
 
 </project>
