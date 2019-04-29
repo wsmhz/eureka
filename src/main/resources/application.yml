@@ -1,6 +1,6 @@
 spring:
   application:
-    name: eureka
+    name: @project.artifactId@
 eureka:
   instance:
     hostname: ${spring.cloud.client.ip-address}
